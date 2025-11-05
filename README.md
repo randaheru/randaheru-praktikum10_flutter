@@ -40,8 +40,7 @@ Praktikum ini bertujuan agar mahasiswa mampu memahami konsep navigasi dalam Flut
 ---
 
 ## Kesimpulan
-
-Dari praktikum ini, dapat disimpulkan bahwa **navigasi merupakan komponen penting dalam pengembangan aplikasi Flutter**. Dengan memanfaatkan named routes dan arguments, developer dapat mengatur alur berpindah halaman secara efisien dan terstruktur. Selain itu, penggunaan animasi dan layout yang baik meningkatkan pengalaman pengguna secara keseluruhan.
+Dari praktikum ini, dapat disimpulkan bahwa **navigasi merupakan komponen penting dalam pengembangan aplikasi Flutter**. Dengan memanfaatkan named routes dan arguments, developer dapat mengatur alur berpindah halaman secara efisien dan terstruktur. Selain itu, penggunaan animasi dan layout yang baik meningkatkan pengalaman pengguna secara keseluruhan..
 
 ---
 
