@@ -16,8 +16,8 @@
 
 Berikut adalah tampilan hasil praktikum 2:
 
-![Hasil Praktikum 10 - Tampilan 1](images/hasilPraktikum2.png)  
-![Hasil Praktikum 10 - Tampilan 2](images/hasilPraktikum2.2.png)  
+![Hasil Praktikum 10 - Tampilan 1](images/hasil2.png)  
+![Hasil Praktikum 10 - Tampilan 2](images/hasil1.png)  
 
 ---
 
