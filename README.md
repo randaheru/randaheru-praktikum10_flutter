@@ -42,7 +42,7 @@ Praktikum ini bertujuan agar mahasiswa mampu memahami konsep navigasi dalam Flut
 ## Kesimpulan
 Dari praktikum ini, dapat disimpulkan bahwa **navigasi merupakan komponen penting dalam pengembangan aplikasi Flutter**. Dengan memanfaatkan named routes dan arguments, developer dapat mengatur alur berpindah halaman secara efisien dan terstruktur. Selain itu, penggunaan animasi dan layout yang baik meningkatkan pengalaman pengguna secara keseluruhan..
 
-==============================================================================================================
+---
 
 # Laporan Praktikum 2
 
@@ -92,4 +92,59 @@ Dari praktikum ini, dapat disimpulkan bahwa **state management dan navigasi adal
 
 Praktikum ini menekankan pentingnya **memisahkan logika bisnis dan UI**, sehingga kode lebih bersih dan mudah dipelihara.
 
+---
 
+# Praktikum 3 - Flutter: Membuat State di Multiple Screens
+
+**Pemrograman Mobile - Mengelola State di Multiple Screens dengan InheritedNotifier**
+
+---
+
+## Identitas
+
+- **Nama**       : Randa Heru Kusuma  
+- **NIM**        : 2341760009  
+- **Praktikum**  : 3 - Membuat State di Multiple Screens
+
+---
+
+## Deskripsi
+
+Praktikum ini bertujuan untuk memahami konsep **"Lift State Up"** dalam Flutter, yaitu menempatkan state lebih tinggi dalam widget tree agar bisa diakses oleh banyak screen.  
+
+Materi yang dipelajari meliputi:
+
+- Mengubah `PlanProvider` agar dapat menangani **List Plan**.  
+- Membuat screen baru `PlanCreatorScreen` untuk menambah Plan.  
+- Menghubungkan `PlanScreen` dengan `PlanProvider` untuk mengelola daftar task.  
+- Implementasi navigasi antar screen dengan `Navigator.push()`.  
+- Mengupdate UI secara otomatis menggunakan `ValueNotifier` dan `ValueListenableBuilder`.  
+
+Praktikum ini menekankan pentingnya **state management lintas screen** agar aplikasi lebih fleksibel, interaktif, dan mudah dikelola.
+
+---
+
+## Hasil Praktikum
+
+1. Tampilan awal Plan Creator:  
+![Tampilan Plan Creator](images/hasil3.1.png)  
+
+2. Menambahkan Plan baru dan melihat daftar plan:  
+![Daftar Plan](images/hasil3.2.png)  
+
+3. Membuka Plan individual untuk mengelola task:  
+![Plan Screen](images/hasil3.3.png)  
+
+---
+
+## Kesimpulan
+
+Dari praktikum ini dapat disimpulkan bahwa:
+
+- State management di Flutter harus **di-lift** agar bisa digunakan di banyak screen.  
+- `InheritedNotifier` dan `ValueNotifier` memungkinkan data **terupdate otomatis** di seluruh widget yang tergantung padanya.  
+- Penggunaan **List** untuk menyimpan beberapa Plan mempermudah manajemen data dan navigasi antar plan.  
+- Developer dapat membuat aplikasi yang **dinamis dan interaktif**, di mana penambahan plan baru langsung terlihat di UI tanpa perlu reload.  
+- Praktikum ini memperkuat konsep **memisahkan logika bisnis dan UI**, sehingga kode lebih rapi dan mudah dipelihara.  
+
+Dengan demikian, penguasaan **state management lintas screen** menjadi kunci dalam membangun aplikasi Flutter yang kompleks dan scalable.
