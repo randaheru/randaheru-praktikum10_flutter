@@ -66,6 +66,9 @@ flutter:
     - images/hasil1.png
     - images/hasil2.png
     - images/hasil2.1.png
+    - images/hasil3.1.png
+    - images/hasil3.2.png
+    - images/hasil3.3.png
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
