@@ -14,10 +14,12 @@
 
 ## Hasil
 
-Berikut adalah tampilan hasil praktikum 2:
+Berikut adalah tampilan hasil praktikum 1:
 
+Hasil Pertama
 ![Hasil Praktikum 10 - Tampilan 1](images/hasil2.png)  
-![Hasil Praktikum 10 - Tampilan 2](images/hasil1.png)  
+Hasil Kedua
+![Hasil Praktikum 10 - Tampilan 2](images/hasil1.png) 
 
 ---
 
